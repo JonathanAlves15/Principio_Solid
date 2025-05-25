@@ -2,9 +2,10 @@
 using System.Collections.Generic;
 using System.Net.Mail;
 
-namespace RHCaotico
+namespace RHCaotico_old
 {
-    // Classe modelo que faz tudo
+    // Classe modelo faz tudo
+    /*
     public class Funcionario
     {
         public string Nome { get; set; }
@@ -66,7 +67,7 @@ namespace RHCaotico
         }
     }
 
-    // Programa principal (com lógica de negócio acoplada)
+    // Programa principal
     class Program
     {
         static void Main(string[] args)
@@ -83,4 +84,5 @@ namespace RHCaotico
             registro.MostrarFuncionarios();
         }
     }
+    */
 }

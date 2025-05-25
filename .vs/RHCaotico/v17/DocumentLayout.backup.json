@@ -1,18 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\josej\\source\\repos\\RHCaotico\\",
+  "WorkspaceRootPath": "C:\\Users\\josej\\\u00C1rea de Trabalho\\Principio_Solid\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{28C670F1-E50A-45EF-A1F8-34D2F25D0642}|RHCaotico\\RHCaotico.csproj|c:\\users\\josej\\source\\repos\\rhcaotico\\rhcaotico\\rhclassrefatorado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{28C670F1-E50A-45EF-A1F8-34D2F25D0642}|RHCaotico\\RHCaotico.csproj|C:\\Users\\josej\\\u00C1rea de Trabalho\\Principio_Solid\\rhcaotico\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{28C670F1-E50A-45EF-A1F8-34D2F25D0642}|RHCaotico\\RHCaotico.csproj|solutionrelative:rhcaotico\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28C670F1-E50A-45EF-A1F8-34D2F25D0642}|RHCaotico\\RHCaotico.csproj|c:\\users\\josej\\\u00E1rea de trabalho\\principio_solid\\rhcaotico\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28C670F1-E50A-45EF-A1F8-34D2F25D0642}|RHCaotico\\RHCaotico.csproj|solutionrelative:rhcaotico\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28C670F1-E50A-45EF-A1F8-34D2F25D0642}|RHCaotico\\RHCaotico.csproj|c:\\users\\josej\\\u00E1rea de trabalho\\principio_solid\\rhcaotico\\rhclassrefatorado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{28C670F1-E50A-45EF-A1F8-34D2F25D0642}|RHCaotico\\RHCaotico.csproj|solutionrelative:rhcaotico\\rhclassrefatorado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{28C670F1-E50A-45EF-A1F8-34D2F25D0642}|RHCaotico\\RHCaotico.csproj|c:\\users\\josej\\source\\repos\\rhcaotico\\rhcaotico\\rhclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{28C670F1-E50A-45EF-A1F8-34D2F25D0642}|RHCaotico\\RHCaotico.csproj|C:\\Users\\josej\\\u00C1rea de Trabalho\\Principio_Solid\\rhcaotico\\rhclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{28C670F1-E50A-45EF-A1F8-34D2F25D0642}|RHCaotico\\RHCaotico.csproj|solutionrelative:rhcaotico\\rhclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{28C670F1-E50A-45EF-A1F8-34D2F25D0642}|RHCaotico\\RHCaotico.csproj|c:\\users\\josej\\source\\repos\\rhcaotico\\rhcaotico\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{28C670F1-E50A-45EF-A1F8-34D2F25D0642}|RHCaotico\\RHCaotico.csproj|solutionrelative:rhcaotico\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{28C670F1-E50A-45EF-A1F8-34D2F25D0642}|RHCaotico\\RHCaotico.csproj|c:\\users\\josej\\\u00E1rea de trabalho\\principio_solid\\rhcaotico\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28C670F1-E50A-45EF-A1F8-34D2F25D0642}|RHCaotico\\RHCaotico.csproj|solutionrelative:rhcaotico\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,42 +30,68 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\josej\\\u00C1rea de Trabalho\\Principio_Solid\\RHCaotico\\Program.cs",
+              "RelativeDocumentMoniker": "RHCaotico\\Program.cs",
+              "ToolTip": "C:\\Users\\josej\\\u00C1rea de Trabalho\\Principio_Solid\\RHCaotico\\Program.cs",
+              "RelativeToolTip": "RHCaotico\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T18:53:11.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\josej\\\u00C1rea de Trabalho\\Principio_Solid\\RHCaotico\\Form1.cs",
+              "RelativeDocumentMoniker": "RHCaotico\\Form1.cs",
+              "ToolTip": "C:\\Users\\josej\\\u00C1rea de Trabalho\\Principio_Solid\\RHCaotico\\Form1.cs*",
+              "RelativeToolTip": "RHCaotico\\Form1.cs*",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAIwA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T18:49:14.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "RHClassRefatorado.cs",
-              "DocumentMoniker": "C:\\Users\\josej\\source\\repos\\RHCaotico\\RHCaotico\\RHClassRefatorado.cs",
+              "DocumentMoniker": "C:\\Users\\josej\\\u00C1rea de Trabalho\\Principio_Solid\\RHCaotico\\RHClassRefatorado.cs",
               "RelativeDocumentMoniker": "RHCaotico\\RHClassRefatorado.cs",
-              "ToolTip": "C:\\Users\\josej\\source\\repos\\RHCaotico\\RHCaotico\\RHClassRefatorado.cs",
+              "ToolTip": "C:\\Users\\josej\\\u00C1rea de Trabalho\\Principio_Solid\\RHCaotico\\RHClassRefatorado.cs",
               "RelativeToolTip": "RHCaotico\\RHClassRefatorado.cs",
-              "ViewState": "AgIAAFMAAAAAAAAAAAA8wHAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAiwBEAAABjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-25T18:00:32.064Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "RHClass.cs",
-              "DocumentMoniker": "C:\\Users\\josej\\source\\repos\\RHCaotico\\RHCaotico\\RHClass.cs",
+              "DocumentMoniker": "C:\\Users\\josej\\\u00C1rea de Trabalho\\Principio_Solid\\RHCaotico\\RHClass.cs",
               "RelativeDocumentMoniker": "RHCaotico\\RHClass.cs",
-              "ToolTip": "C:\\Users\\josej\\source\\repos\\RHCaotico\\RHCaotico\\RHClass.cs",
+              "ToolTip": "C:\\Users\\josej\\\u00C1rea de Trabalho\\Principio_Solid\\RHCaotico\\RHClass.cs",
               "RelativeToolTip": "RHCaotico\\RHClass.cs",
-              "ViewState": "AgIAADgAAAAAAAAAAAAswFYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-25T17:59:31.894Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\josej\\source\\repos\\RHCaotico\\RHCaotico\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\josej\\\u00C1rea de Trabalho\\Principio_Solid\\RHCaotico\\Form1.cs",
               "RelativeDocumentMoniker": "RHCaotico\\Form1.cs",
-              "ToolTip": "C:\\Users\\josej\\source\\repos\\RHCaotico\\RHCaotico\\Form1.cs [Design]",
-              "RelativeToolTip": "RHCaotico\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\josej\\\u00C1rea de Trabalho\\Principio_Solid\\RHCaotico\\Form1.cs [Design]*",
+              "RelativeToolTip": "RHCaotico\\Form1.cs [Design]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-25T17:58:05.682Z",
               "EditorCaption": " [Design]"
