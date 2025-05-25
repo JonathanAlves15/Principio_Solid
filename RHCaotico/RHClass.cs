@@ -1,11 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Net.Mail;
+using System.Text;
 
 namespace RHCaotico_old
 {
     // Classe modelo faz tudo
-    /*
     public class Funcionario
     {
         public string Nome { get; set; }
@@ -53,36 +53,22 @@ namespace RHCaotico_old
             funcionarios.Add(funcionario);
         }
 
-        public void MostrarFuncionarios()
+        public string MostrarFuncionarios()
         {
+            StringBuilder sb = new StringBuilder();
+
             foreach (var f in funcionarios)
             {
-                Console.WriteLine($"Nome: {f.Nome}, Cargo: {f.Cargo}, Salário: {f.Salario}");
+
+                sb.AppendLine($"Nome: {f.Nome}, Cargo: {f.Cargo}, Salário: {f.Salario}");
                 if (f.Salario < 2000)
                 {
-                    Console.WriteLine("Este funcionário está abaixo do piso salarial!");
+                    sb.AppendLine("Este funcionário está abaixo do piso salarial!");
                 }
                 f.GerarRelatorioEEnviarPorEmail(); // Viola LSP e acoplamento
             }
+
+            return sb.ToString();
         }
     }
-
-    // Programa principal
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            var f1 = new Funcionario("Carlos", "Gerente", 9000, "carlos@empresa.com");
-            var f2 = new Funcionario("Ana", "Desenvolvedor", 5000, "ana@empresa.com");
-            var f3 = new Funcionario("Lucas", "Estagiario", 1200, "lucas@empresa.com");
-
-            var registro = new RegistroDeFuncionarios();
-            registro.AdicionarFuncionario(f1);
-            registro.AdicionarFuncionario(f2);
-            registro.AdicionarFuncionario(f3);
-
-            registro.MostrarFuncionarios();
-        }
-    }
-    */
 }
