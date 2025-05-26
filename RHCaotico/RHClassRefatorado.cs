@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace RHCaotico
+namespace RH
 {
     // Abstração para envio de e-mails
     public interface IEmailService
@@ -9,12 +9,11 @@ namespace RHCaotico
         string Enviar(string destinatario, string assunto, string corpo);
     }
 
-    // Implementação concreta da interface de envio de e-mails
+    // Implementação da interface de envio de e-mails
     public class EmailService : IEmailService
     {
         public string Enviar(string destinatario, string assunto, string corpo)
         {
-            // Simulação de envio (não usa SmtpClient diretamente)
             return $"[Email Enviado]\n\nPara: {destinatario}\nAssunto: {assunto}\nCorpo:\n{corpo}\n";
         }
     }
@@ -43,7 +42,7 @@ namespace RHCaotico
         public abstract string Cargo { get; }
     }
 
-    // Subclasses específicas para cada tipo de funcionário
+    // Subclasses para cada tipo de funcionário
     public class Gerente : Funcionario
     {
         public Gerente(string nome, double salario, string email) : base(nome, salario, email) { }
@@ -65,7 +64,7 @@ namespace RHCaotico
         public override string Cargo => "Estagiário";
     }
 
-    // Responsável apenas por gerar relatórios
+    // Responsável por gerar relatórios
     public class GeradorRelatorio
     {
         public string Gerar(Funcionario funcionario)

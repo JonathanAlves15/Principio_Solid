@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Net.Mail;
 using System.Text;
 
-namespace RHCaotico_old
+namespace RH_old
 {
     // Classe modelo faz tudo
     public class Funcionario

@@ -2,7 +2,7 @@
 using System.Text;
 using System.Windows.Forms;
 
-namespace RHCaotico
+namespace RH
 {
     public partial class Form1 : Form
     {

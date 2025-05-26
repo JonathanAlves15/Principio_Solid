@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Windows.Forms;
 
-namespace RHCaotico
+namespace RH
 {
     internal static class Program
     {

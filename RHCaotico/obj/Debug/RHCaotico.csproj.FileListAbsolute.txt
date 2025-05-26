@@ -2,9 +2,9 @@ C:\Users\josej\Área de Trabalho\Principio_Solid\RHCaotico\obj\Debug\RHCaotico.c
 C:\Users\josej\Área de Trabalho\Principio_Solid\RHCaotico\obj\Debug\RHCaotico.Properties.Resources.resources
 C:\Users\josej\Área de Trabalho\Principio_Solid\RHCaotico\obj\Debug\RHCaotico.csproj.GenerateResource.cache
 C:\Users\josej\Área de Trabalho\Principio_Solid\RHCaotico\obj\Debug\RHCaotico.csproj.CoreCompileInputs.cache
-C:\Users\josej\Área de Trabalho\Principio_Solid\RHCaotico\obj\Debug\RHCaotico.Form1.resources
 C:\Users\josej\Área de Trabalho\Principio_Solid\RHCaotico\bin\Debug\RHCaotico.exe.config
 C:\Users\josej\Área de Trabalho\Principio_Solid\RHCaotico\bin\Debug\RHCaotico.exe
 C:\Users\josej\Área de Trabalho\Principio_Solid\RHCaotico\bin\Debug\RHCaotico.pdb
 C:\Users\josej\Área de Trabalho\Principio_Solid\RHCaotico\obj\Debug\RHCaotico.exe
 C:\Users\josej\Área de Trabalho\Principio_Solid\RHCaotico\obj\Debug\RHCaotico.pdb
+C:\Users\josej\Área de Trabalho\Principio_Solid\RHCaotico\obj\Debug\RH.Form1.resources
